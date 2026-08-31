@@ -4,7 +4,7 @@ En esta sección encontrarás un ejercicio temático para practicar los principi
 
 ## 1) Página de Adopción de Animalitos (`Main.java`)  
 
-![Adopción de Animalitos](img/animalitos.jpg)  
+![Adopción de Animalitos](IMG/animalitos.jpg)  
 
 El objetivo es simular una página web de adopción de animalitos, aplicando **abstracción, herencia, polimorfismo y encapsulamiento**.  
 
